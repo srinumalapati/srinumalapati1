@@ -3,6 +3,10 @@
 <h1 align="center">✨ Hey there, I'm Srinu Malapati ✨</h1>
 <h3 align="center">🚀 Developer | AI Enthusiast | Lifelong Learner</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00FFB3&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Deep+Learning+Enthusiast;Open+Source+Contributor;Problem+Solver+%F0%9F%92%BB" alt="Typing animation"/>
+</p>
+
 <img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ---
@@ -11,7 +15,7 @@
 - 🔭 Working on **Deep Learning & Full-Stack Projects**
 - 🌱 Exploring **AI, Machine Learning & System Design**
 - 🎯 Goal: Build projects that **impact & inspire**
-- 📫 How to reach me: **srinumalapati@gmail.com**
+- 📫 Reach me: **srinumalapati@gmail.com**
 - ⚡ Fun fact: I debug faster when I drink chai ☕  
 
 ---
@@ -46,6 +50,20 @@
 
 ---
 
+### 🏆 GitHub Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=srinumalapati&theme=radical&no-frame=true&margin-w=15" />
+</p>
+
+---
+
+### 📈 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=srinumalapati&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
 ### 🚀 Featured Projects
 - 🎓 [Resume Website](https://github.com/srinumalapati/resume)  
 - 💻 [Java 45 Programs](https://github.com/srinumalapati/java45)  
@@ -63,3 +81,10 @@
 
 ### 🎯 Quote of the Day
 <p align="center">💡 "First, solve the problem. Then, write the code." 💡</p>
+
+---
+
+### 🎭 Random Dev Meme
+<p align="center">
+  <img src="https://random-memer.herokuapp.com/" width="400"/>
+</p>
